@@ -1,0 +1,12 @@
+So the first model is what you have in the telephone network and called circuit switching.
+And the idea behind circuit switching is you set up what's called a circuit and think of it not as like electrical circuit but think of it more as a pass.
+So before we go into this in more detail what I wanna do is just give you a sense of what the core of the network a looks like god today.
+Case here's another Terran provider this ASAP ASAP assistance band ingested by some other company and here you can see that they have got big red dots which are there would call naps that's a network access point so these are these major interconnection points.
+And again they have one in Atlanta Kansas city and Denver.
+So that's gonna curious here's quest.
+We'll talk about what these are in in a little bit but just for now just notice that they've got a major interconnection point in Atlanta Kansas city and Denver.
+So we'll talk about why you that is in it but think about what those 3 cities have in common because it's actually kinda interesting kind of fundamental.
+So it turns the architecture of the network you have these things are called the tier one providers that have the big national and international networks.
+And so they do these things at these places that are called I XP's our internet exchange or peering points.
+I'm so typically.
+And the other side of the call center are that we don't think about that much because it doesn't happen all that much is that you may not be able to reserve the resources for the call in which case you get a call busy signal.

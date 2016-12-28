@@ -1,0 +1,25 @@
+Okay in this first lecture I what Im gonna do is give you a whirlwind induction to the internet.
+Because as you probably know you know if you run an application twice on the internet you typically get different performance and why is that.
+Well talk exactly about whats that whats the difference between a router and a switch later on course but basically these are the devices that forward packets of data to the network where packet is the basic unit of transmission on a network like the internet and well talk about how packet relates to things like email message or a web page or something like this.
+And how many packets it actually takes is really gonna depend on things like the type of media that you use are and the protocols that are run on that media.
+Okay so not going back to sort of the knots and bolts of the internet so the internet the definition of it is the network of networks.
+But the big thing that were gonna study in this course is really the protocols which is largely the software that makes the internet work.
+That really define what the internet is.
+Okay so that some of the nuts and bolts the other way we can kind of you know the internet is well call the services you and that is how does a programmer or in in system relief you the network.
+And some other computer that you dont know the name of and you dont know where it is obvious to someone somewhere out there on the internet so its its its an application thats distributed between your laptop and some other.
+And the issue is what sort of service or delivery semantics does that hyper wire provide.
+On.
+So Ill point out that arm as I mentioned you know on exams I will give you some terms to define and so for example heres 2 really good terms that you want to write down your own definition for you probably want to give a more fulsome definition than just like no guarantees for connectionless.
+Okay so lets go back and talk about this notion of protocol so protocol is a word its just all over networking.
+Specifying as I say what order you put data data into some sort of package.
+And you run into someone on the street you know just as a little pleasantries your way to get the conversation going to say hi howre you.
+So these are examples of of protocols.
+But in case this class I really do care course how you are.
+And then in response to receiving certain messages you may take some actions and generate some other.
+And then on top of TCP you then run the HTTP protocol which will send a message of a very specific types of the formats very well defined according HTB protocol that its the word gatt.
+Okay so the internet is this giant food chain of our protocols and essentially between all the entities that are connected by links here there are classes of protocols that are run.
+I theres protocols that are run in between all the routers and these protocols are run.
+In such a way that the connection just looks like a wire.
+And so to the big issues that were gonna study are reliable transmission how what is the transport protocol we deal with the fact.
+On.
+So will study are all of that in good time.

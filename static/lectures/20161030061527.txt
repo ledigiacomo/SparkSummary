@@ -1,0 +1,12 @@
+So let's continue our introduction and now what would like to do is to talk about some of the structure of the internet and will do this by first starting at the edge of the network and then delving into the core.
+Now we have the core of the network which is shown here in these blue our regions and these are your I. S. P.'s.
+So the client server approach is typically supported using the connection oriented service on the internet which is to say it's built on top of this transport protocol called she's.
+But any band the goal of 80 connection oriented service is gonna be to transfer data between and system.
+So the way it's going to do this is it's going to set up something that we're gonna referred to as a connection with an end system so TCP and your laptop will set up a connection to TCP on a server you know somewhere out there on the internet.
+To end system so that they can set up the connection.
+So in terms of a service model.
+So again the fact that losses and things like this are going to occur TCP will deal with this it will for example are retransmit unbeknownst to an application so as far as an application is concerned everything that it stands is received in order sent and if anything goes wrong the TCP on your laptop and the TCP and a server will work together that exchange messages that are control messages to deal with the fact that stuff is lost arrives out of order.
+There is a service is called flow control which basically is all about trying to synchronize the applications.
+So flow control is all about trying to figure out how fast usage that send data so that the receiver can actually our process.
+And that's an interesting thing to keep in mind as we talk about some of the other protocols.
+So you EP is sort of the polar opposite of TCP it's unreliable it will just send data and it won't
